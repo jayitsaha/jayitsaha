@@ -1,4 +1,5 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+<!-- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) -->
+<!-- [<img src="https://github.com/pr2tik1/pr2tik1/blob/master/pratik-2.jpg">](https://pr2tik1.github.io/) -->
 
 <p>
   <h1 align="center"><b>Hello there, I'm Jayit 👋</b></h1>
@@ -116,10 +117,6 @@
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
-
-<!--[website]: -->
-
-<!--[youtube]: https://www.youtube.com/channel/UC40R8Rvwjhu08Z0MFffNfsg-->
 
 [instagram]: https://www.instagram.com/jayitsaha/
 [linkedin]: https://www.linkedin.com/in/jayit-saha-063859193/
