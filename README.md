@@ -1,6 +1,6 @@
 <!-- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) -->
 <p align="center">
-[<img src="https://github.com/ricksaha2000/jayitsaha/blob/master/jayit.jpg" width="600" height="600"/>](https://cutt.ly/Ckilmla)
+<img src="https://github.com/ricksaha2000/jayitsaha/blob/master/jayit.jpg" width="600" height="600"/>
 </p>
 <p>
   <h1 align="center"><b>Hello there, I'm Jayit 👋</b></h1>
