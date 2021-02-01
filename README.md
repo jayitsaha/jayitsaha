@@ -1,7 +1,7 @@
 <!-- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) -->
-
-[<img src="https://github.com/ricksaha2000/jayitsaha/blob/master/jayit.jpg" width="200" height="400">](https://cutt.ly/Ckilmla)
-
+<p align="center">
+[<img src="https://github.com/ricksaha2000/jayitsaha/blob/master/jayit.jpg" width="600" height="800">](https://cutt.ly/Ckilmla)
+</p>
 <p>
   <h1 align="center"><b>Hello there, I'm Jayit 👋</b></h1>
 </p>
